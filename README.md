@@ -1,2 +1,2 @@
-# SignLanguageMNIST-MultiClass-Classification
-Multi-class Classification for Sign Language MNIST Dataset
+# Sign Language MNIST MultiClass Classification
+This project explores using a Convolutional Neural Network (CNN) to classify American Sign Language letters from 28x28 grayscale images in the Sign Language MNIST dataset (source: https://www.kaggle.com/datamunge/sign-language-mnist). This notebook will delve into data preprocessing, building and training the CNN model, exploring its architecture and performance. The goal is to gain insights into the effectiveness of CNNs for recognizing hand gestures and potentially contribute to accessible communication technologies.
